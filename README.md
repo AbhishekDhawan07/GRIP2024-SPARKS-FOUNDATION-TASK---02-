@@ -14,8 +14,8 @@ This repository contains the solution for the second task of the Sparks Foundati
 5) Dataset: The dataset for this task contains various features that are used to train and test the unsupervised machine learning model.
 </br>
 Files
-6) dataset.csv: This CSV file contains the dataset used for unsupervised learning, including various features for clustering, dimensionality reduction, or anomaly detection i.e. Iris.csv file.
+   dataset.csv: This CSV file contains the dataset used for unsupervised learning, including various features for clustering, dimensionality reduction, or anomaly detection i.e. Iris.csv file.
 </br>
 7) Data Science And Business Analytics - Sparks Foundation Task - 02 Unsupervised machione learning.ipynb: This Jupyter Notebook contains the Python code for implementing an unsupervised machine learning technique, such as KNN.
 </br>
-README.md: This file provides an overview of the repository and instructions for running the code.
+8)README.md: This file provides an overview of the repository and instructions for running the code.
